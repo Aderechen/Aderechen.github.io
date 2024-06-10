@@ -1,5 +1,5 @@
 {
   "format": "YYYY-MM-DD",
   "folder": "_posts",
-  "template": "_posts/YYYY-MM-DD-TITLE.EXTENSION"
+  "template": "_posts/{{Date}}-{{title}}"
 }
