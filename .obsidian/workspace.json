@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/YYYY-MM-DD-TITLE.EXTENSION.md",
+                "file": "_posts/{{Date}}-{{title}}.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/YYYY-MM-DD-TITLE.EXTENSION.md",
+                "file": "_posts/{{Date}}-{{title}}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/YYYY-MM-DD-TITLE.EXTENSION.md",
+                "file": "_posts/{{Date}}-{{title}}.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/YYYY-MM-DD-TITLE.EXTENSION.md"
+                "file": "_posts/{{Date}}-{{title}}.md"
               }
             }
           },
@@ -157,7 +157,7 @@
   "active": "ec0c0f8d721b3083",
   "lastOpenFiles": [
     "_posts/2024-06-10-.md",
-    "_posts/YYYY-MM-DD-TITLE.EXTENSION.md",
+    "_posts/{{Date}}-{{title}}.md",
     "_posts/2024-06-10-hello-world.md.md",
     "temp"
   ]
